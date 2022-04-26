@@ -1,0 +1,27 @@
+{
+  "name": "@jorelmaro/coder_pb_37",
+  "version": "1.0.0",
+  "description": "Coder test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeM18/coder_pb_37.git"
+  },
+  "keywords": [
+    "Coder",
+    "pb_37",
+    "backend"
+  ],
+  "author": "Jorge Malo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeM18/coder_pb_37/issues"
+  },
+  "homepage": "https://github.com/JorgeM18/coder_pb_37#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
